@@ -2,16 +2,21 @@
 permalink: /
 ---
 
-# 鱼皮的编程宝典
+# OJC预备仓库
 
 > 贴心的编程学习路线，全面的编程知识百科
+> 
+> 仓库维护：[小冰~](https://github.com/Xiaobing520awa/)
 >
-> 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 编程内容作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
-> 本站地址：[https://codefather.cn](https://codefather.cn)
+> 本站地址：[https://github.com/Xiaobing520awa/Xiaobing520qwq.github.io](https://github.com/Xiaobing520awa/Xiaobing520qwq.github.io)
 
-## 本站内容
+# 本站内容
+## 关于MC辅助
+- 
 
+## 关于编程
 - [编程学习路线](/学习路线)
 - [鱼皮的编程学习之路](/自学之路)
 - [编程干货分享](/编程分享)
